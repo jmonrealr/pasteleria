@@ -13,7 +13,15 @@ body {
     font-size: xx-large;
     font-family: fantasy;
 }
+.card-custom {
+    width: 18rem; 
+    border: radius 15px;
+}
 
+.footer-text {
+    color: #672618;
+    font-size: 12px;
+}
 .text-brown-custom {
     color: #672618;
     font-size: 48px;
